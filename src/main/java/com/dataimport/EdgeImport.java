@@ -32,9 +32,7 @@ public class EdgeImport{
     private final String PAPER_INDEX = "paper";
     private final String INSTITUTION_INDEX = "institution";
     private final String KEYWORD_INDEX = "keyword";
-    private final String PUBLISH_INDEX = "publish";
     private final String WORK_IN_INDEX = "work";
-    private final String INVOLVE_INDEX = "involve";
 
     Label labelPaper, labelAuthor, labelInstitution, labelKeyord, labelPublish,
             labelWork_in, labelInvolve;
