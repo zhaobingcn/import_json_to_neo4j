@@ -81,7 +81,7 @@ public class ConvertToNode {
         }
         if(object.getJSONArray("date")!=null){
             dates = object.getJSONArray("date");
-            if(dates.length()>0){
+            if(dates.length() > 0){
                 date = (dates.get(0)).toString();
             }
 
